@@ -10,5 +10,5 @@ A straightforward, practical guide covering core security concepts, common vulne
 * Offensive Basics: Recon, OWASP Top 10, and common exploit vectors.
 * Defensive Basics: Log analysis, SIEM tools, and MITRE ATT&CK.
 
-Who It's For
+Who It's For?
 Anyone looking to grasp cybersecurity principles quickly—from absolute beginners to aspiring SOC analysts.
